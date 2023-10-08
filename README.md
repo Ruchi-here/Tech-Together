@@ -1,4 +1,4 @@
-## EqualPay
+# EqualPay
 
 EqualPay is the future of work, where everyone is paid fairly for their skills and experience, regardless of gender. With EqualPay, you can also find a job that matches your skills and interests, and apply with just a few clicks
 
@@ -11,7 +11,7 @@ EqualPay is the future of work, where everyone is paid fairly for their skills a
 - [Usage](#usage)
 - [License](#license)
 
-# Introduction
+## Introduction
 EqualPay is a website that helps you get paid fairly for your work. With EqualPay, you can:
 
 Get a customized negotiation email: Upload your resume and a draft of your own negotiation email, and EqualPay will help you create a polished and persuasive email that you can send to your manager.
