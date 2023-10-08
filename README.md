@@ -1,4 +1,4 @@
-![Running](https://github.com/Ruchi-here/Tech-Together/assets/122676573/86cc1c35-a363-474c-abed-20af25e6b4c1)# EqualPay
+# EqualPay
 
 EqualPay is the future of work, where everyone is paid fairly for their skills and experience, regardless of gender. With EqualPay, you can also find a job that matches your skills and interests, and apply with just a few clicks
 
