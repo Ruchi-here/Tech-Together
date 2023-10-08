@@ -19,7 +19,8 @@ EqualPay is a comprehensive platform that provides tools and resources to help p
 # Features
 EqualPay is a website that helps you get paid fairly for your work. It has two main features:
 
-Customized negotiation email: This feature helps you create a persuasive email to send to your manager when negotiating your salary or promotion. You simply need to upload your resume and a draft of your own negotiation email, and EqualPay will provide feedback and suggestions.
-Job search with filters: This feature allows you to find jobs based on your skills, gender, experience, and other criteria. You can also filter results by salary, location, and company type.
+**Customized negotiation email:** This feature helps you create a persuasive email to send to your manager when negotiating your salary or promotion. You simply need to upload your resume and a draft of your own negotiation email, and EqualPay will provide feedback and suggestions.
+
+**Job search with filters:** This feature allows you to find jobs based on your skills, gender, experience, and other criteria. You can also filter results by salary, location, and company type.
 
 
